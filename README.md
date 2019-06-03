@@ -14,7 +14,7 @@ already done
 
 
 
-![BreakoutNoFrameskip-v4](pporesult.png)
+![BreakoutNoFrameskip-v4](images/pporesult.png)
 
 
 
