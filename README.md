@@ -8,9 +8,14 @@ already done
 
 编写了DDPG,TD3,A2C,PPO的代码
 
-##ppo
+
+
+### ppo
+
+
 
 ![BreakoutNoFrameskip-v4](pporesult.png)
+
 
 
 to do list
