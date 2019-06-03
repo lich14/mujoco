@@ -14,7 +14,7 @@ already done
 
 
 
-![image](images/pporesult.png)
+![avatar](images/pporesult.png)
 
 
 to do list
@@ -26,7 +26,6 @@ to do list
 
 
 调试A2C
-
 
 
 
