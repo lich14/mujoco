@@ -17,6 +17,8 @@ already done
 ![BreakoutNoFrameskip-v4](images/pporesult.png)
 
 
+![BreakoutNoFrameskip-v4](images/ppo_walker.png)
+
 
 to do list
 -
